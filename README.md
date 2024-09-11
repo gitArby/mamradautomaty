@@ -21,4 +21,5 @@ A simple slot machine game made using Python and Pygame.
 ## Installation
 
 1. Clone or download the project files.
-2. Open gamble.exe file
+2. Exract game folder
+3. Open gamble.exe file
